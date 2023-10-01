@@ -1,0 +1,18 @@
+body{
+    background-color:  #909a80;
+    color: #a5a8a6;
+
+}
+.box1{
+    width: 550px;
+    height: auto;
+    background-color:  #081d21 ;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 20px;
+    margin-top: 25px;
+    box-shadow: 5px 5px 2px #101819;
+    border-radius: 4%;
+}
+p{text-align: left;}
