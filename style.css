@@ -12,7 +12,15 @@ body{
     text-align: center;
     padding: 20px;
     margin-top: 25px;
-    box-shadow: 5px 5px 2px #101819;
+    box-shadow: 5px 5px 2px #0a1e29;
     border-radius: 4%;
 }
-p{text-align: left;}
+p{
+    text-align: left;
+    font-family: 'Philosopher', sans-serif;
+}
+h1,
+h2{
+    font-family: 'Source Sans 3', sans-serif;
+    font-family: 'Young Serif', serif;
+}
